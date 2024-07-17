@@ -1,0 +1,29 @@
+
+Step 1: Create a GitHub Account
+Go to (link unavailable) and sign up for an account if you don't already have one.
+
+Step 2: Create a New Repository
+Click on the "+" button in the top right corner and select "New repository".
+Give your repository a name and description, and choose the repository type (e.g. public or private).
+
+Step 3: Initialize a Git Repository on Your Local Machine
+Open your project folder in your preferred code editor or terminal.
+Run the command git init to initialize a new Git repository.
+
+Step 4: Add Your Files to the Repository
+Run the command git add . to add all files in your project folder to the repository.
+Run the command git commit -m "Initial commit" to commit your changes with a meaningful commit message.
+
+Step 5: Link Your Local Repository to GitHub
+Run the command git remote add origin <repository_url> to link your local repository to your GitHub repository.
+Replace <repository_url> with the URL of your GitHub repository.
+
+Step 6: Push Your Changes to GitHub
+Run the command git push -u origin master to push your changes to the remote repository.
+This will upload your website project to GitHub.
+
+Step 7: Set Up GitHub Pages (Optional)
+If you want to host your website directly on GitHub, you can set up GitHub Pages.
+Go to your repository settings, click on "GitHub Pages", and select the branch you want to use as the source for your website.
+That's it! Your website project should now be uploaded to GitHub.
+Let me know if you need more detailed instructions or have any specific questions.
